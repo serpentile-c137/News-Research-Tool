@@ -7,3 +7,6 @@ faiss-cpu
 sentence-transformers
 pandas
 numpy
+streamlit
+google-generativeai
+langchain-google-genai
