@@ -21,6 +21,7 @@ os.environ['GOOGLE_API_KEY'] = os.getenv('GOOGLE_API_KEY', 'your-key-if-not-usin
 
 genai.configure()
 
+st.set_page_config(page_title="News Research Tool", page_icon="📈", layout="wide")
 st.title("News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 
