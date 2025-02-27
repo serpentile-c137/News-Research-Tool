@@ -10,3 +10,4 @@ numpy
 streamlit
 google-generativeai
 langchain-google-genai
+dotenv
