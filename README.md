@@ -6,7 +6,8 @@ News research tool designed for effortless information retrieval. Users can inpu
 
 * Load URLs or upload text files containing URLs to fetch article content.
 * Process article content through LangChain's UnstructuredURL Loader
-* Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and * Effective retrieval of relevant information
+* Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift
+* Effective retrieval of relevant information
 * Interact with the LLM's (Google Gemini) by inputting queries and receiving answers along with source URLs.
 
 ## Installation
