@@ -23,6 +23,9 @@ genai.configure()
 
 st.set_page_config(page_title="News Research Tool", page_icon="📈", layout="wide")
 st.title("News Research Tool 📈")
+st.write("This tool helps you to find answers to your questions from the news articles. "
+            "You can provide the URLs of the news articles and ask your question. ")
+st.write("The tool will find the answer from the articles and provide the sources.")
 st.sidebar.title("News Article URLs")
 
 urls = []
