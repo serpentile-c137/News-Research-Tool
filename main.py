@@ -85,3 +85,14 @@ if query:
                 st.write(source)
     else:
         main_placeholder.text("FAISS index not found. Please process the URLs first.")
+
+# footer_html = """<div style='text-align: center;'>
+#   <p>Made with ❤️ by Shardul Gore</p>
+# </div>"""
+
+footer_html = """
+    <div style='position: fixed; bottom: 0; text-align: center !important;'>
+        <p>Made with ❤️ by Shardul Gore</p>
+    </div>
+"""
+st.markdown(footer_html, unsafe_allow_html=True)
