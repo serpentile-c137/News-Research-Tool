@@ -1,2 +1,3 @@
 .env
-/Notebooks/faiss_index
+
+/faiss_store_gemini
