@@ -35,8 +35,6 @@ streamlit run main.py
 #### Project Url : https://ai-news-research-tool.streamlit.app/
 
 #### Output: 
-![alt text](https://github.com/serpentile-c137/News-Research-Tool/blob/main/news-research-tool.webm)
-
 https://github.com/user-attachments/assets/bcef8bd8-0904-4d9e-bca4-9c44a8643263
 
 
