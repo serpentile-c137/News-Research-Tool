@@ -36,6 +36,5 @@ streamlit run main.py
 #### Project Url : https://ai-news-research-tool.streamlit.app/
 
 #### Output: 
-https://github.com/user-attachments/assets/bcef8bd8-0904-4d9e-bca4-9c44a8643263
 
-
+https://github.com/user-attachments/assets/fd176a20-7575-49ef-8280-bee30a79c5d4
