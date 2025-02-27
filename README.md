@@ -35,4 +35,4 @@ streamlit run main.py
 #### Project Url : https://ai-news-research-tool.streamlit.app/
 
 #### Output: 
-![alt text](https://github.com/serpentile-c137/News-Research-Tool/blob/main/screenshot_1.png)
+![alt text](https://github.com/serpentile-c137/News-Research-Tool/blob/main/streamlit-ui.mp4)
