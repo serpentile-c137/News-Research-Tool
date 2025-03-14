@@ -23,7 +23,7 @@ cd News-Research-Tool
 pip install -r requirements
 ```
 
-3. 4.Set up your Gemini API key by creating a .env file in the project root and adding your API
+3. Set up your Gemini API key by creating a .env file in the project root and adding your API
 ```bash
 GOOGLE_API_KEY=your_api_key
 ```
